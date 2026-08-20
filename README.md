@@ -1,0 +1,1 @@
+I designed a simple College Database using SQLite. I created tables for students, departments, and courses, and inserted student records into the database. I performed basic SQL operations such as SELECT, WHERE, ORDER BY, UPDATE, DELETE, COUNT, AVG, and GROUP BY to retrieve and manipulate the data. This assignment helped me understand database design and basic SQL operations
